@@ -1,0 +1,16 @@
+IRIS FLOWER CLASSIFICATION_SUPERVISED ML PROJECT
+This machine learning project classifies iris flowers into "setosa","versicolor",or"virginica"baced on their petal and sepal measurements.
+TYPE:supervised learning
+ALGORITHM:Decision TREE Classifier
+DATASET:Built in iris dataset from scikit-learn
+FEATURES:Petal length,petal width,sepal length,sepal width
+ACCURACY:100%(On test data)
+Load and explore dataset
+Split into train\test set
+Predict and evaluate results
+Make new predictions on sample inputs
+sample=[[5.1,3.5,1.4,0.2]]
+model.predict(sample)
+output:0=setosa
+CREATED BY:
+      Tayyaba Shahbaz-ML Enthusiast|self-taught|17y/o.
